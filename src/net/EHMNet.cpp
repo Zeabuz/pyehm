@@ -1,4 +1,4 @@
-#include "EHMNet.h"
+#include "net/EHMNet.h"
 
 namespace ehm
 {
